@@ -1,4 +1,4 @@
-FontName                   (SourceHanMono-ExtraLightIt)
+FontName                   (SourceHanMono-ExtraLightItalic)
 FullName                   (Source Han Mono ExtraLight Italic)
 FamilyName                 (Source Han Mono)
 Weight                     (ExtraLight Italic)

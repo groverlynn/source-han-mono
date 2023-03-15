@@ -1,4 +1,4 @@
-FontName                   (SourceHanMonoK-HeavyIt)
+FontName                   (SourceHanMonoK-HeavyItalic)
 FullName                   (Source Han Mono K Heavy Italic)
 FamilyName                 (Source Han Mono K)
 Weight                     (Heavy Italic)

@@ -2,51 +2,51 @@
 
 [SourceHanMono-ExtraLight]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,EL
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 EL
+	s=3,1,0x411,ExtraLight
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 ExtraLight
 	f=Source Han Mono
-	s=EL
-	l=Source Han Mono EL
+	s=ExtraLight
+	l=Source Han Mono ExtraLight
 
 [SourceHanMono-ExtraLightIt]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,EL Italic
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 EL
+	s=3,1,0x411,ExtraLight Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 ExtraLight
 	f=Source Han Mono
-	s=EL Italic
-	l=Source Han Mono EL
+	s=ExtraLight Italic
+	l=Source Han Mono ExtraLight
 
 [SourceHanMono-Light]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,L
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 L
+	s=3,1,0x411,Light
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Light
 	f=Source Han Mono
-	s=L
-	l=Source Han Mono L
+	s=Light
+	l=Source Han Mono Light
 
 [SourceHanMono-LightIt]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,L Italic
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 L
+	s=3,1,0x411,Light Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Light
 	f=Source Han Mono
-	s=L Italic
-	l=Source Han Mono L
+	s=Light Italic
+	l=Source Han Mono Light
 
 [SourceHanMono-Normal]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,N
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 N
+	s=3,1,0x411,Normal
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Normal
 	f=Source Han Mono
-	s=N
-	l=Source Han Mono N
+	s=Normal
+	l=Source Han Mono Normal
 
 [SourceHanMono-NormalIt]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,N Italic
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 N
+	s=3,1,0x411,Normal Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Normal
 	f=Source Han Mono
-	s=N Italic
-	l=Source Han Mono N
+	s=Normal Italic
+	l=Source Han Mono Normal
 
 [SourceHanMono-Regular]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
@@ -66,19 +66,19 @@
 
 [SourceHanMono-Medium]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,M
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 M
+	s=3,1,0x411,Medium
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Medium
 	f=Source Han Mono
-	s=M
-	l=Source Han Mono M
+	s=Medium
+	l=Source Han Mono Medium
 
 [SourceHanMono-MediumIt]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,M Italic
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 M
+	s=3,1,0x411,Medium Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Medium
 	f=Source Han Mono
-	s=M Italic
-	l=Source Han Mono M
+	s=Medium Italic
+	l=Source Han Mono Medium
 
 [SourceHanMono-Bold]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
@@ -98,69 +98,69 @@
 
 [SourceHanMono-Heavy]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,H
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 H
+	s=3,1,0x411,Heavy
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Heavy
 	f=Source Han Mono
-	s=H
-	l=Source Han Mono H
+	s=Heavy
+	l=Source Han Mono Heavy
 
 [SourceHanMono-HeavyIt]
 	f=3,1,0x411,\6E90\30CE\7B49\5E45
-	s=3,1,0x411,H Italic
-	l=3,1,0x411,\6E90\30CE\7B49\5E45 H
+	s=3,1,0x411,Heavy Italic
+	l=3,1,0x411,\6E90\30CE\7B49\5E45 Heavy
 	f=Source Han Mono
-	s=H Italic
-	l=Source Han Mono H
+	s=Heavy Italic
+	l=Source Han Mono Heavy
 
-# Korean
+# KoreaNormal
 
 [SourceHanMonoK-ExtraLight]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,EL
-	l=3,1,0x412,\BCF8\BAA8\B178 EL
+	s=3,1,0x412,ExtraLight
+	l=3,1,0x412,\BCF8\BAA8\B178 ExtraLight
 	f=Source Han Mono K
-	s=EL
-	l=Source Han Mono K EL
+	s=ExtraLight
+	l=Source Han Mono K ExtraLight
 
 [SourceHanMonoK-ExtraLightIt]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,EL Italic
-	l=3,1,0x412,\BCF8\BAA8\B178 EL
+	s=3,1,0x412,ExtraLight Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 ExtraLight
 	f=Source Han Mono K
-	s=EL Italic
-	l=Source Han Mono K EL
+	s=ExtraLight Italic
+	l=Source Han Mono K ExtraLight
 
 [SourceHanMonoK-Light]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,L
-	l=3,1,0x412,\BCF8\BAA8\B178 L
+	s=3,1,0x412,Light
+	l=3,1,0x412,\BCF8\BAA8\B178 Light
 	f=Source Han Mono K
-	s=L
-	l=Source Han Mono K L
+	s=Light
+	l=Source Han Mono K Light
 
 [SourceHanMonoK-LightIt]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,L Italic
-	l=3,1,0x412,\BCF8\BAA8\B178 L
+	s=3,1,0x412,Light Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 Light
 	f=Source Han Mono K
-	s=L Italic
-	l=Source Han Mono K L
+	s=Light Italic
+	l=Source Han Mono K Light
 
 [SourceHanMonoK-Normal]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,N
-	l=3,1,0x412,\BCF8\BAA8\B178 N
+	s=3,1,0x412,Normal
+	l=3,1,0x412,\BCF8\BAA8\B178 Normal
 	f=Source Han Mono K
-	s=N
-	l=Source Han Mono K N
+	s=Normal
+	l=Source Han Mono K Normal
 
 [SourceHanMonoK-NormalIt]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,N Italic
-	l=3,1,0x412,\BCF8\BAA8\B178 N
+	s=3,1,0x412,Normal Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 Normal
 	f=Source Han Mono K
-	s=N Italic
-	l=Source Han Mono K N
+	s=Normal Italic
+	l=Source Han Mono K Normal
 
 [SourceHanMonoK-Regular]
 	f=3,1,0x412,\BCF8\BAA8\B178
@@ -180,19 +180,19 @@
 
 [SourceHanMonoK-Medium]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,M
-	l=3,1,0x412,\BCF8\BAA8\B178 M
+	s=3,1,0x412,Medium
+	l=3,1,0x412,\BCF8\BAA8\B178 Medium
 	f=Source Han Mono K
-	s=M
-	l=Source Han Mono K M
+	s=Medium
+	l=Source Han Mono K Medium
 
 [SourceHanMonoK-MediumIt]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,M Italic
-	l=3,1,0x412,\BCF8\BAA8\B178 M
+	s=3,1,0x412,Medium Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 Medium
 	f=Source Han Mono K
-	s=M Italic
-	l=Source Han Mono K M
+	s=Medium Italic
+	l=Source Han Mono K Medium
 
 [SourceHanMonoK-Bold]
 	f=3,1,0x412,\BCF8\BAA8\B178
@@ -212,69 +212,69 @@
 
 [SourceHanMonoK-Heavy]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,H
-	l=3,1,0x412,\BCF8\BAA8\B178 H
+	s=3,1,0x412,Heavy
+	l=3,1,0x412,\BCF8\BAA8\B178 Heavy
 	f=Source Han Mono K
-	s=H
-	l=Source Han Mono K H
+	s=Heavy
+	l=Source Han Mono K Heavy
 
 [SourceHanMonoK-HeavyIt]
 	f=3,1,0x412,\BCF8\BAA8\B178
-	s=3,1,0x412,H Italic
-	l=3,1,0x412,\BCF8\BAA8\B178 H
+	s=3,1,0x412,Heavy Italic
+	l=3,1,0x412,\BCF8\BAA8\B178 Heavy
 	f=Source Han Mono K
-	s=H Italic
-	l=Source Han Mono K H
+	s=Heavy Italic
+	l=Source Han Mono K Heavy
 
 # Simplified Chinese
 
 [SourceHanMonoSC-ExtraLight]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,EL
-	l=3,1,0x804,\601D\6E90\7B49\5BBD EL
+	s=3,1,0x804,ExtraLight
+	l=3,1,0x804,\601D\6E90\7B49\5BBD ExtraLight
 	f=Source Han Mono SC
-	s=EL
-	l=Source Han Mono SC EL
+	s=ExtraLight
+	l=Source Han Mono SC ExtraLight
 
 [SourceHanMonoSC-ExtraLightIt]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,EL Italic
-	l=3,1,0x804,\601D\6E90\7B49\5BBD EL
+	s=3,1,0x804,ExtraLight Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD ExtraLight
 	f=Source Han Mono SC
-	s=EL Italic
-	l=Source Han Mono SC EL
+	s=ExtraLight Italic
+	l=Source Han Mono SC ExtraLight
 
 [SourceHanMonoSC-Light]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,L
-	l=3,1,0x804,\601D\6E90\7B49\5BBD L
+	s=3,1,0x804,Light
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Light
 	f=Source Han Mono SC
-	s=L
-	l=Source Han Mono SC L
+	s=Light
+	l=Source Han Mono SC Light
 
 [SourceHanMonoSC-LightIt]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,L Italic
-	l=3,1,0x804,\601D\6E90\7B49\5BBD L
+	s=3,1,0x804,Light Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Light
 	f=Source Han Mono SC
-	s=L Italic
-	l=Source Han Mono SC L
+	s=Light Italic
+	l=Source Han Mono SC Light
 
 [SourceHanMonoSC-Normal]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,N
-	l=3,1,0x804,\601D\6E90\7B49\5BBD N
+	s=3,1,0x804,Normal
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Normal
 	f=Source Han Mono SC
-	s=N
-	l=Source Han Mono SC N
+	s=Normal
+	l=Source Han Mono SC Normal
 
 [SourceHanMonoSC-NormalIt]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,N Italic
-	l=3,1,0x804,\601D\6E90\7B49\5BBD N
+	s=3,1,0x804,Normal Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Normal
 	f=Source Han Mono SC
-	s=N Italic
-	l=Source Han Mono SC N
+	s=Normal Italic
+	l=Source Han Mono SC Normal
 
 [SourceHanMonoSC-Regular]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
@@ -294,19 +294,19 @@
 
 [SourceHanMonoSC-Medium]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,M
-	l=3,1,0x804,\601D\6E90\7B49\5BBD M
+	s=3,1,0x804,Medium
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Medium
 	f=Source Han Mono SC
-	s=M
-	l=Source Han Mono SC M
+	s=Medium
+	l=Source Han Mono SC Medium
 
 [SourceHanMonoSC-MediumIt]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,M Italic
-	l=3,1,0x804,\601D\6E90\7B49\5BBD M
+	s=3,1,0x804,Medium Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Medium
 	f=Source Han Mono SC
-	s=M Italic
-	l=Source Han Mono SC M
+	s=Medium Italic
+	l=Source Han Mono SC Medium
 
 [SourceHanMonoSC-Bold]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
@@ -326,69 +326,69 @@
 
 [SourceHanMonoSC-Heavy]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,H
-	l=3,1,0x804,\601D\6E90\7B49\5BBD H
+	s=3,1,0x804,Heavy
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Heavy
 	f=Source Han Mono SC
-	s=H
-	l=Source Han Mono SC H
+	s=Heavy
+	l=Source Han Mono SC Heavy
 
 [SourceHanMonoSC-HeavyIt]
 	f=3,1,0x804,\601D\6E90\7B49\5BBD
-	s=3,1,0x804,H Italic
-	l=3,1,0x804,\601D\6E90\7B49\5BBD H
+	s=3,1,0x804,Heavy Italic
+	l=3,1,0x804,\601D\6E90\7B49\5BBD Heavy
 	f=Source Han Mono SC
-	s=H Italic
-	l=Source Han Mono SC H
+	s=Heavy Italic
+	l=Source Han Mono SC Heavy
 
 # Traditional Chinese for Taiwan (ROC)
 
 [SourceHanMonoTC-ExtraLight]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,EL
-	l=3,1,0x404,\601D\6E90\7B49\5BEC EL
+	s=3,1,0x404,ExtraLight
+	l=3,1,0x404,\601D\6E90\7B49\5BEC ExtraLight
 	f=Source Han Mono TC
-	s=EL
-	l=Source Han Mono TC EL
+	s=ExtraLight
+	l=Source Han Mono TC ExtraLight
 
 [SourceHanMonoTC-ExtraLightIt]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,EL Italic
-	l=3,1,0x404,\601D\6E90\7B49\5BEC EL
+	s=3,1,0x404,ExtraLight Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC ExtraLight
 	f=Source Han Mono TC
-	s=EL Italic
-	l=Source Han Mono TC EL
+	s=ExtraLight Italic
+	l=Source Han Mono TC ExtraLight
 
 [SourceHanMonoTC-Light]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,L
-	l=3,1,0x404,\601D\6E90\7B49\5BEC L
+	s=3,1,0x404,Light
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Light
 	f=Source Han Mono TC
-	s=L
-	l=Source Han Mono TC L
+	s=Light
+	l=Source Han Mono TC Light
 
 [SourceHanMonoTC-LightIt]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,L Italic
-	l=3,1,0x404,\601D\6E90\7B49\5BEC L
+	s=3,1,0x404,Light Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Light
 	f=Source Han Mono TC
-	s=L Italic
-	l=Source Han Mono TC L
+	s=Light Italic
+	l=Source Han Mono TC Light
 
 [SourceHanMonoTC-Normal]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,N
-	l=3,1,0x404,\601D\6E90\7B49\5BEC N
+	s=3,1,0x404,Normal
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Normal
 	f=Source Han Mono TC
-	s=N
-	l=Source Han Mono TC N
+	s=Normal
+	l=Source Han Mono TC Normal
 
 [SourceHanMonoTC-NormalIt]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,N Italic
-	l=3,1,0x404,\601D\6E90\7B49\5BEC N
+	s=3,1,0x404,Normal Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Normal
 	f=Source Han Mono TC
-	s=N Italic
-	l=Source Han Mono TC N
+	s=Normal Italic
+	l=Source Han Mono TC Normal
 
 [SourceHanMonoTC-Regular]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
@@ -408,19 +408,19 @@
 
 [SourceHanMonoTC-Medium]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,M
-	l=3,1,0x404,\601D\6E90\7B49\5BEC M
+	s=3,1,0x404,Medium
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Medium
 	f=Source Han Mono TC
-	s=M
-	l=Source Han Mono TC M
+	s=Medium
+	l=Source Han Mono TC Medium
 
 [SourceHanMonoTC-MediumIt]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,M Italic
-	l=3,1,0x404,\601D\6E90\7B49\5BEC M
+	s=3,1,0x404,Medium Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Medium
 	f=Source Han Mono TC
-	s=M Italic
-	l=Source Han Mono TC M
+	s=Medium Italic
+	l=Source Han Mono TC Medium
 
 [SourceHanMonoTC-Bold]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
@@ -440,69 +440,69 @@
 
 [SourceHanMonoTC-Heavy]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,H
-	l=3,1,0x404,\601D\6E90\7B49\5BEC H
+	s=3,1,0x404,Heavy
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Heavy
 	f=Source Han Mono TC
-	s=H
-	l=Source Han Mono TC H
+	s=Heavy
+	l=Source Han Mono TC Heavy
 
 [SourceHanMonoTC-HeavyIt]
 	f=3,1,0x404,\601D\6E90\7B49\5BEC
-	s=3,1,0x404,H Italic
-	l=3,1,0x404,\601D\6E90\7B49\5BEC H
+	s=3,1,0x404,Heavy Italic
+	l=3,1,0x404,\601D\6E90\7B49\5BEC Heavy
 	f=Source Han Mono TC
-	s=H Italic
-	l=Source Han Mono TC H
+	s=Heavy Italic
+	l=Source Han Mono TC Heavy
 
 # Traditional Chinese for Hong Kong SAR
 
 [SourceHanMonoHC-ExtraLight]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,EL
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F EL
+	s=3,1,0xC04,ExtraLight
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F ExtraLight
 	f=Source Han Mono HC
-	s=EL
-	l=Source Han Mono HC EL
+	s=ExtraLight
+	l=Source Han Mono HC ExtraLight
 
 [SourceHanMonoHC-ExtraLightIt]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,EL Italic
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F EL
+	s=3,1,0xC04,ExtraLight Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F ExtraLight
 	f=Source Han Mono HC
-	s=EL Italic
-	l=Source Han Mono HC EL
+	s=ExtraLight Italic
+	l=Source Han Mono HC ExtraLight
 
 [SourceHanMonoHC-Light]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,L
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F L
+	s=3,1,0xC04,Light
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Light
 	f=Source Han Mono HC
-	s=L
-	l=Source Han Mono HC L
+	s=Light
+	l=Source Han Mono HC Light
 
 [SourceHanMonoHC-LightIt]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,L Italic
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F L
+	s=3,1,0xC04,Light Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Light
 	f=Source Han Mono HC
-	s=L Italic
-	l=Source Han Mono HC L
+	s=Light Italic
+	l=Source Han Mono HC Light
 
 [SourceHanMonoHC-Normal]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,N
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F N
+	s=3,1,0xC04,Normal
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Normal
 	f=Source Han Mono HC
-	s=N
-	l=Source Han Mono HC N
+	s=Normal
+	l=Source Han Mono HC Normal
 
 [SourceHanMonoHC-NormalIt]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,N Italic
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F N
+	s=3,1,0xC04,Normal Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Normal
 	f=Source Han Mono HC
-	s=N Italic
-	l=Source Han Mono HC N
+	s=Normal Italic
+	l=Source Han Mono HC Normal
 
 [SourceHanMonoHC-Regular]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
@@ -522,19 +522,19 @@
 
 [SourceHanMonoHC-Medium]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,M
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F M
+	s=3,1,0xC04,Medium
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Medium
 	f=Source Han Mono HC
-	s=M
-	l=Source Han Mono HC M
+	s=Medium
+	l=Source Han Mono HC Medium
 
 [SourceHanMonoHC-MediumIt]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,M Italic
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F M
+	s=3,1,0xC04,Medium Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Medium
 	f=Source Han Mono HC
-	s=M Italic
-	l=Source Han Mono HC M
+	s=Medium Italic
+	l=Source Han Mono HC Medium
 
 [SourceHanMonoHC-Bold]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
@@ -554,18 +554,18 @@
 
 [SourceHanMonoHC-Heavy]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,H
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F H
+	s=3,1,0xC04,Heavy
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Heavy
 	f=Source Han Mono HC
-	s=H
-	l=Source Han Mono HC H
+	s=Heavy
+	l=Source Han Mono HC Heavy
 
 [SourceHanMonoHC-HeavyIt]
 	f=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F
-	s=3,1,0xC04,H Italic
-	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F H
+	s=3,1,0xC04,Heavy Italic
+	l=3,1,0xC04,\601D\6E90\7B49\5BEC \9999\6E2F Heavy
 	f=Source Han Mono HC
-	s=H Italic
-	l=Source Han Mono HC H
+	s=Heavy Italic
+	l=Source Han Mono HC Heavy
 
 # EOF

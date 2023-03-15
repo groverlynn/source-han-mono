@@ -1,4 +1,4 @@
-FontName                   (SourceHanMonoK-NormalIt)
+FontName                   (SourceHanMonoK-NormalItalic)
 FullName                   (Source Han Mono K Normal Italic)
 FamilyName                 (Source Han Mono K)
 Weight                     (Normal Italic)

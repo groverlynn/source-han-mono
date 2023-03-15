@@ -1,4 +1,4 @@
-FontName                   (SourceHanMonoHC-MediumIt)
+FontName                   (SourceHanMonoHC-MediumItalic)
 FullName                   (Source Han Mono HC Medium Italic)
 FamilyName                 (Source Han Mono HC)
 Weight                     (Medium Italic)
